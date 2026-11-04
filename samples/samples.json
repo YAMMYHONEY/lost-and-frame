@@ -1,0 +1,50 @@
+[
+ {
+  "title": "Three cups and a ball (LTX-2.5)",
+  "title_ko": "컵 세 개와 공 (LTX-2.5)",
+  "file": "samples/cups.mp4",
+  "objects": "cup, ball",
+  "generated_by": "LTX-2.5 via the Lightricks/LTX-2.5 Hugging Face Space (research/ltx_samples.mjs)",
+  "license": "LTX-2.x Community License: https://github.com/Lightricks/LTX-2/blob/main/LICENSE-2_x",
+  "ai_generated": true,
+  "date": "2026-10-31",
+  "prompt": "Close-up of two hands shuffling three red plastic cups on a wooden table, a small white ball hidden under one cup. Static camera, bright natural light.",
+  "seed": 7
+ },
+ {
+  "title": "Juggling oranges (LTX-2.5)",
+  "title_ko": "오렌지 저글링 (LTX-2.5)",
+  "file": "samples/oranges.mp4",
+  "objects": "orange",
+  "generated_by": "LTX-2.5 via the Lightricks/LTX-2.5 Hugging Face Space (research/ltx_samples.mjs)",
+  "license": "LTX-2.x Community License: https://github.com/Lightricks/LTX-2/blob/main/LICENSE-2_x",
+  "ai_generated": true,
+  "date": "2026-10-31",
+  "prompt": "A person juggling four oranges in a bright kitchen. Static camera.",
+  "seed": 11
+ },
+ {
+  "title": "Sorting candies into bowls (LTX-2.5)",
+  "title_ko": "사탕을 그릇에 나누기 (LTX-2.5)",
+  "file": "samples/candies.mp4",
+  "objects": "candy, bowl",
+  "generated_by": "LTX-2.5 via the Lightricks/LTX-2.5 Hugging Face Space (research/ltx_samples.mjs)",
+  "license": "LTX-2.x Community License: https://github.com/Lightricks/LTX-2/blob/main/LICENSE-2_x",
+  "ai_generated": true,
+  "date": "2026-10-31",
+  "prompt": "Close-up of hands sorting colorful round candies into three small white bowls on a table. Static camera.",
+  "seed": 13
+ },
+ {
+  "title": "Slicing a carrot (LTX-2.5)",
+  "title_ko": "당근 썰기 (LTX-2.5)",
+  "file": "samples/carrot.mp4",
+  "objects": "carrot slice",
+  "generated_by": "LTX-2.5 via the Lightricks/LTX-2.5 Hugging Face Space (research/ltx_samples.mjs)",
+  "license": "LTX-2.x Community License: https://github.com/Lightricks/LTX-2/blob/main/LICENSE-2_x",
+  "ai_generated": true,
+  "date": "2026-10-31",
+  "prompt": "A chef slicing a carrot into round slices on a wooden cutting board, close-up. Static camera.",
+  "seed": 17
+ }
+]

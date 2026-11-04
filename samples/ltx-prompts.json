@@ -1,0 +1,38 @@
+[
+ {
+  "file": "samples/cups.mp4",
+  "model": "LTX-2.5 (Lightricks/LTX-2.5 Space)",
+  "date": "2026-10-31",
+  "prompt": "Close-up of two hands shuffling three red plastic cups on a wooden table, a small white ball hidden under one cup. Static camera, bright natural light.",
+  "prompt_sent": "A close-up shot frames two hands, appearing to be of an adult, with light skin tone and short, neat fingernails, actively shuffling three bright red plastic cups across a textured, warm-toned wooden table, captured from a slightly elevated side view with a static camera, illuminated by bright, natural light that casts crisp highlights on the plastic and wood grain; a small, smooth white ball is partially visible, hidden underneath the bottom cup during the shuffling motion, accompanied by the faint, subtle sound of plastic scraping against wood as the hands move the cups, the scene rendered with strong visual production quality, richly saturated film-grain color, and crisp high-resolution detail emphasizing the texture of the wood and the glossy surface of the plastic.",
+  "seed": 7,
+  "length": "121 frames (5.04s)"
+ },
+ {
+  "file": "samples/oranges.mp4",
+  "model": "LTX-2.5 (Lightricks/LTX-2.5 Space)",
+  "date": "2026-10-31",
+  "prompt": "A person juggling four oranges in a bright kitchen. Static camera.",
+  "prompt_sent": "A medium shot frames a person with light brown hair wearing a white t-shirt and blue jeans standing in a bright, modern kitchen with white countertops and stainless steel appliances, captured from a front view as the camera remains static; the person is actively juggling four bright orange pieces of fruit, their hands moving fluidly above their head in a continuous, rhythmic motion, the lighting is bright and natural, casting crisp highlights on the oranges and reflecting off the glossy surfaces of the kitchen, accompanied by a light, upbeat, cheerful instrumental background track with a moderate volume, and the subtle sound of gentle kitchen ambiance, creating a visually crisp, film-grade scene with rich, saturated color and high-resolution detail.",
+  "seed": 11,
+  "length": "121 frames (5.04s)"
+ },
+ {
+  "file": "samples/candies.mp4",
+  "model": "LTX-2.5 (Lightricks/LTX-2.5 Space)",
+  "date": "2026-10-31",
+  "prompt": "Close-up of hands sorting colorful round candies into three small white bowls on a table. Static camera.",
+  "prompt_sent": "A close-up shot frames a pair of hands, appearing to belong to an adult with light skin and neatly trimmed fingernails, meticulously sorting a pile of brightly colored, round candies—including red, blue, and yellow—into three small, pristine white ceramic bowls resting on a smooth, light-colored wooden table; the camera remains static, capturing crisp high-resolution detail of the candy textures and the subtle movement as the fingers delicately pick up each candy and place it into its designated bowl; soft, warm cinematic lighting illuminates the scene, highlighting the glossy sheen of the candies and the smooth texture of the ceramic bowls, accompanied by a very faint, gentle ambient soundscape featuring the soft, subtle rustle of the candies shifting and the faint, quiet sound of ceramic touching wood.",
+  "seed": 13,
+  "length": "121 frames (5.04s)"
+ },
+ {
+  "file": "samples/carrot.mp4",
+  "model": "LTX-2.5 (Lightricks/LTX-2.5 Space)",
+  "date": "2026-10-31",
+  "prompt": "A chef slicing a carrot into round slices on a wooden cutting board, close-up. Static camera.",
+  "prompt_sent": "A close-up shot frames a chef's hands, appearing to be a middle-aged person with light brown hair, wearing a crisp white chef's coat, positioned over a rustic, dark wooden cutting board with visible grain and texture; the chef's hands grip a sharp, stainless steel knife, which is actively slicing a bright orange carrot into uniform, round slices, the motion of the knife is smooth and deliberate; the camera remains static, capturing the fine texture of the carrot as it separates, with warm, focused cinematic lighting highlighting the sheen on the knife blade and the vibrant color of the carrot, accompanied by the crisp, sharp sound of the knife cutting through the vegetable, creating a clean, high-resolution detail of the food preparation.",
+  "seed": 17,
+  "length": "121 frames (5.04s)"
+ }
+]

@@ -1,0 +1,4 @@
+[
+  { "file": "ai-cup.mp4", "concepts": ["cup", "cat"], "events": [{ "concept": "cup", "kind": "vanish", "time": 3.2 }] },
+  { "file": "real-occlusion.mp4", "concepts": ["cup", "cat"], "events": [] }
+]

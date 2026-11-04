@@ -1,0 +1,11 @@
+.env
+ffmpeg.env
+.claude/
+clips/
+work/
+# research outputs derived from the datasets' labels (names, truth flags), run logs, local caches
+research/*.json
+!research/labels.example.json
+research/*.log
+research/*.err
+__pycache__/
